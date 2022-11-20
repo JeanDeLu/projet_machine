@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(53, 36, 82, 0.185);
+}
+#div_parent{
+    margin: 5% 40%;
+    background-color: white;
+    border-radius: 17px ;
+    padding:5px;
+}
+#child_1{
+    margin: 10px;
+}
+button{
+    padding:10px 15px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin: 3px;
+}
+#child_2{
+    margin: 2px;
+    padding: 8px;
+}
+.btn1{
+    border-radius: 10px;
+    background-color: black;
+}
+.btn2{
+    border-color: rgb(226, 132, 9); ;
+    border-radius: 10px;
+    background-color: rgb(226, 132, 9);
+}
+#btn1{
+    border-radius: 10px;
+    background-color: black;
+    padding:10px 46px ;
+}
+textarea{
+    text-align: right;
+    margin-top: 5px;
+}
+span{
+    font-size: 24px;
+}
